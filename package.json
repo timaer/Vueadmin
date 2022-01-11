@@ -1,7 +1,7 @@
 {
-  "name": "vueadmin",
-  "version": "0.1.0",
-  "private": true,
+  "name": "@timaer/vue-admin",
+  "version": "1.0.1",
+  "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -28,5 +28,10 @@
     "node-sass": "^4.14.1",
     "sass-loader": "^8.0.2",
     "vue-template-compiler": "^2.6.10"
-  }
+  },
+  "description": "A vue admin based on element vue",
+  "main": "index.js",
+  "repository": "https://github.com/timaer/Vueadmin.git",
+  "author": "Xu Qin <xuqin226@qq.com>",
+  "license": "MIT"
 }
