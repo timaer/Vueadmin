@@ -63,8 +63,8 @@ export default {
 .login-content{width:100%;margin: 0 auto;}
 }
 .logo{margin-top:0.05rem;}
-.logoimg{width:100%;height:2.5rem;}
-.title{font-size:0.22rem;font-weight: 600;padding: 0.1rem;}
+.logoimg{width:100%;width:2rem;height:2rem;}
+.title{font-size:0.20rem;font-weight: 600;padding: 0.1rem;}
 .subtitle{font-size:0.12rem;padding: 0 0.1rem 0.1rem;}
 .login-btn{margin-top: 0.2rem;}
 .login-input{background-color: #eeeeee;height:0.15rem;margin-top: 0.15rem;border-radius: 0.1rem;display:flex;align-items: center;padding: 0.15rem 0.15rem 0.15rem 0;}

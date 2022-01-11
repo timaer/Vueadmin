@@ -6,6 +6,6 @@ document.getElementsByTagName("html")[0].setAttribute("style","font-size:"+width
 function widthProportion(){
 	var t=(document.body&&document.body.clientWidth || document.getElementsByTagName("html")[0].offsetWidth)
 	t=t/750;
-	t=t<1.5?1.5:(t>2.2?2.2:t)
+	t=t<1.33?1.33:(t>2?2:t)
 	return t;
 }
