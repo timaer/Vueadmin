@@ -2,9 +2,9 @@
 
 安装使用
 
-npm i @timaer/vue-shop
+npm i @timaer/vue-admin
 或
-yarn add @timaer/vue-shop
+yarn add @timaer/vue-admin
 
 
 Vue版
